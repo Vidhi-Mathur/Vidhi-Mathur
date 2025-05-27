@@ -3,12 +3,13 @@
 A curious mind crafting full-stack web experiences — clean, scalable, and user-focused. I dive deep into code to build meaningful products, not just projects. From intuitive UIs to real-time backend systems, I enjoy bridging design and functionality with intention.
 
 ## What I’ve Been Building
-### 🚀 Recently shipped: EatWave
+### 🚀 Recently shipped: [EatWave](https://github.com/Vidhi-Mathur/EatWave)
 - A full-featured MERN-based food delivery platform built from scratch.
 - Built seamless user flows for browsing, cart management, and live order tracking.
-- Integrated secure authentication and payment gateway<br>- Used Context API, and performance optimizations.
+- Integrated secure authentication and payment gateway.
+- Used Context API, and performance optimizations.
 
-### 🧠 Currently building: CodeOrbit
+### 🧠 Currently building: [CodeOrbit](https://github.com/Vidhi-Mathur/CodeOrbit)
 - An all-in-one developer portfolio and tracker for coders serious about their growth.
 - Unified dashboard for monitoring coding progress across LeetCode, GitHub, and other dev platforms.
 - Built to showcase substance over surface: your growth, your journey, your orbit
