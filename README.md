@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 👋 Hey, I’m Vidhi
 A curious mind crafting full-stack web experiences — clean, scalable, and user-focused. I dive deep into code to build meaningful products, not just projects. From intuitive UIs to real-time backend systems, I enjoy bridging design and functionality with intention.
 
