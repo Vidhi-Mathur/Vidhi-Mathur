@@ -2,16 +2,20 @@
 A curious mind crafting full-stack web experiences — clean, scalable, and user-focused. I dive deep into code to build meaningful products, not just projects. From intuitive UIs to real-time backend systems, I enjoy bridging design and functionality with intention.
 
 ## What I’ve Been Building
-### 🚀 Recently shipped: [EatWave](https://github.com/Vidhi-Mathur/EatWave)
-- A full-featured MERN-based food delivery platform built from scratch.
-- Built seamless user flows for browsing, cart management, and live order tracking.
-- Integrated secure authentication and payment gateway.
-- Used Context API, and performance optimizations.
+### 🧠 [CodeOrbit](https://github.com/Vidhi-Mathur/CodeOrbit) (Currently building)
+A performance-optimized developer analytics platform that aggregates coding activity from platforms like **GitHub, LeetCode, and Codeforces** into a unified developer profile.
+- Multi-platform analytics dashboard for tracking coding activity.
+- Real-time platform username verification.
+- Layered caching using **Next.js server cache + TanStack React Query**.
+- Year-based lazy loading for activity calendars.
+- Redis-based rate limiting using Upstash for controlled refresh operations.
 
-### 🧠 Currently building: [CodeOrbit](https://github.com/Vidhi-Mathur/CodeOrbit)
-- An all-in-one developer portfolio and tracker for coders serious about their growth.
-- Unified dashboard for monitoring coding progress across LeetCode, GitHub, and other dev platforms.
-- Built to showcase substance over surface: your growth, your journey, your orbit
+### 🚀 [EatWave](https://github.com/Vidhi-Mathur/EatWave) (Recently shipped)
+A full-featured **MERN-based food delivery platform** built from scratch.
+- End-to-end user flow: browsing, cart management, and order placement.
+- Secure authentication and payment gateway integration.
+- Real-time order tracking.
+- Optimized state management and responsive UI.
 
 ## 🛠️ My Toolkit
 - Expertise in modern frontend frameworks like **Next.js** and **React.js**, paired with **TypeScript**, to build dynamic, responsive, and high-performance user interfaces.
